@@ -1,9 +1,6 @@
 ### Hey everyone, I'm FurkanOgur
 
-<!-- ![mustafa-kemal-mustafa-kemal-atatürk](https://user-images.githubusercontent.com/66559064/148649067-8715d51b-f964-4e7e-9d30-e67b1bde5bb8.gif)-->
-
-![](https://github.com/furkanogr/furkanogr/blob/main/atam.gif)
-
+![](https://github.com/furkanogur/furkanogur/blob/main/atam.gif)
 
 ### My profile often includes personal experience and development. See u
 
