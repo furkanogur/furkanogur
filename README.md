@@ -5,7 +5,7 @@
 ![](https://github.com/furkanogr/furkanogr/blob/main/atam.gif)
 
 
-### I continue from here as I do not have access to my main account for now. See u
+### My profile often includes personal experience and development. See u
 
 <!--
 ### Kullandığım Oyun Platformları
