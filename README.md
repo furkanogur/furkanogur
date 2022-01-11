@@ -1,10 +1,11 @@
 <p align="center">
+   </hr>
    ### <strong> Hey everyone, I'm FurkanOgur</strong>
 </p>
 <p align="center">
    <img src="https://github.com/furkanogur/furkanogur/blob/main/atam.gif"/>
-    <img src="https://github.com/furkanogur/furkanogur/blob/main/atam.gif"/>
 </p>
+<hr>
 <p align="center">
   <b> My profile often includes personal experience and development. See u</b>
 </p>
