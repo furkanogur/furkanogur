@@ -5,7 +5,7 @@
    <img src="https://github.com/furkanogur/furkanogur/blob/main/atam.gif"/>
 </p>
 <p align="center">
-### My profile often includes personal experience and development. See u
+   ### <b> My profile often includes personal experience and development. See u</b>
 </p>
 <!--
 ### Kullandığım Oyun Platformları
