@@ -1,7 +1,5 @@
-<p align="center">
-   </hr>
-   ### <strong> Hey everyone, I'm FurkanOgur</strong>
-</p>
+### Hey everyone, I'm FurkanOgur
+<hr>
 <p align="center">
    <img src="https://github.com/furkanogur/furkanogur/blob/main/atam.gif"/>
 </p>
