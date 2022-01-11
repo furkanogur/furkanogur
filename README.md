@@ -5,7 +5,7 @@
 </p>
 <hr>
 
-### My profile often includes personal experience and development. if you want to contact me you know what to do. See u 
+### My profile often includes personal experience and development. If you want to contact me you know what to do. See u 
 
 <!--
 ### Kullandığım Oyun Platformları
