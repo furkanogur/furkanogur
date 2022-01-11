@@ -4,9 +4,9 @@
    <img src="https://github.com/furkanogur/furkanogur/blob/main/atam.gif"/>
 </p>
 <hr>
-<p align="center">
-  <b> My profile often includes personal experience and development. See u</b>
-</p>
+
+### My profile often includes personal experience and development. if you want to contact me you know what to do. See u 
+
 <!--
 ### Kullandığım Oyun Platformları
 <br>
