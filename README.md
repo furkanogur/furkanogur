@@ -1,7 +1,8 @@
 ### Hey everyone, I'm FurkanOgur
+<p align="center">
 
 ![](https://github.com/furkanogur/furkanogur/blob/main/atam.gif)
-
+</p>
 ### My profile often includes personal experience and development. See u
 
 <!--
