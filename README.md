@@ -1,5 +1,5 @@
 <p align="center">
-### Hey everyone, I'm FurkanOgur
+   ### <strong> Hey everyone, I'm FurkanOgur</strong>
 </p>
 <p align="center">
    <img src="https://github.com/furkanogur/furkanogur/blob/main/atam.gif"/>
