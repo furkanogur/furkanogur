@@ -1,10 +1,12 @@
+<p align="center">
 ### Hey everyone, I'm FurkanOgur
-
+</p>
 <p align="center">
    <img src="https://github.com/furkanogur/furkanogur/blob/main/atam.gif"/>
 </p>
+<p align="center">
 ### My profile often includes personal experience and development. See u
-
+</p>
 <!--
 ### Kullandığım Oyun Platformları
 <br>
